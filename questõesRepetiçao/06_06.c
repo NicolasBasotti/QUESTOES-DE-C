@@ -13,7 +13,7 @@ int main(){
         printf("\n\nInforme dois números: ");
         scanf("%d%d",&m,&n);
         printf("\nA soma de %d e %d é igual a %d",m,n,m+n);
-
+        printf("OLA BEBE");
     }
     return 0;
 }
