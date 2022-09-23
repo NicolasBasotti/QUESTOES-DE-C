@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "9_01.C": "cpp",
+        "9_03.C": "cpp",
+        "locale.h": "c",
+        "stdio.h": "c",
+        "12_01.C": "cpp",
+        "time.h": "c",
+        "stdlib.h": "c"
+    }
+}
